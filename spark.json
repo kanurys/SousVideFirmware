@@ -1,0 +1,7 @@
+{
+  "name": "PID-adaptation-for-spark",
+  "author": "Sesh <kanurys@gmail.com>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A PID library for spark, Written by MarcDenman and modified by Sesh"
+}
